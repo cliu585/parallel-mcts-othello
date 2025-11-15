@@ -5,16 +5,14 @@ permalink: /
 
 profile:
   align: right
-  image: 
+  image:
   image_circular: false # crops the image to make it circular
   more_info:
-  
+
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
-
-# Parallel Othello Solver with Monte Carlo Tree Search
 
 Created by Carolyn Liu (cyl2) and Jessica Qiu (jessicaq)
 
@@ -23,8 +21,6 @@ Created by Carolyn Liu (cyl2) and Jessica Qiu (jessicaq)
 ### **Summary**
 
 We will develop a parallel Othello solver using the Monte Carlo Tree Search algorithm and analyze its performance under two different parallelization strategies. One approach will involve multi-threading on the CPU for root parallelism to run independent searches from the same root state and merge the root results at the end. The second approach uses leaf parallelism, where CUDA runs many simulated games in parallel from newly expanded leaf nodes on the GPU, while the CPU handles the shared tree.
-
-###
 
 ### **Background**
 
