@@ -3,14 +3,14 @@ const ninja = document.querySelector('ninja-keys');
 
 // add the home and posts menu items
 ninja.data = [{
-    id: "nav-proposal",
-    title: "proposal",
+    id: "nav-final",
+    title: "final",
     section: "Navigation",
     handler: () => {
       window.location.href = "/parallel-mcts-othello/";
     },
-  },{id: "nav-proposal",
-          title: "proposal",
+  },{id: "nav-final",
+          title: "final",
           description: "",
           section: "Navigation",
           handler: () => {
