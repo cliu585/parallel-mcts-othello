@@ -1,6 +1,6 @@
 ---
 layout: about
-title: proposal
+title: final
 permalink: /
 nav: true
 nav_order: 1
