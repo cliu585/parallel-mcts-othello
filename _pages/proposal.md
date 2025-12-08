@@ -1,9 +1,7 @@
 ---
 layout: about
 title: proposal
-permalink: /proposal/
-nav: true
-nav_order: 1
+permalink: /
 
 profile:
   align: right
