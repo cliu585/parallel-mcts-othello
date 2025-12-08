@@ -9,7 +9,21 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/parallel-mcts-othello/";
     },
-  },{id: "nav-midpoint",
+  },{id: "nav-proposal",
+          title: "proposal",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/parallel-mcts-othello/";
+          },
+        },{id: "nav-proposal",
+          title: "proposal",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/parallel-mcts-othello/proposal/";
+          },
+        },{id: "nav-midpoint",
           title: "midpoint",
           description: "",
           section: "Navigation",
