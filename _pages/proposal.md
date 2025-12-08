@@ -2,6 +2,8 @@
 layout: about
 title: proposal
 permalink: /proposal/
+nav: true
+nav_order: 2
 
 profile:
   align: right
