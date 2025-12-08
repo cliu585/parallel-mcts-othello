@@ -1,7 +1,7 @@
 ---
 layout: about
-title: about
-permalink: /
+title: proposal
+permalink: /proposal/
 
 profile:
   align: right
