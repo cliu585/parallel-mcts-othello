@@ -16,8 +16,8 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/parallel-mcts-othello/midpoint/";
           },
-        },{id: "nav-",
-          title: "",
+        },{id: "nav-final",
+          title: "final",
           description: "",
           section: "Navigation",
           handler: () => {
