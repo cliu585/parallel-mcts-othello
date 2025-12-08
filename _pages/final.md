@@ -1,5 +1,6 @@
 ---
 layout: final
+title: final
 permalink: /final/
 nav: true
 nav_order: 2
